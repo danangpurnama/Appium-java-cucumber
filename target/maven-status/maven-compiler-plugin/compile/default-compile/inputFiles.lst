@@ -1,0 +1,12 @@
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/elements/base/StaticField.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/helpers/ConfigReader.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/base/AppiumDriverUtil.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/elements/Button.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/base/BaseStep.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/elements/base/ClickableField.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/elements/base/EditableField.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/elements/TextView.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/constants/PropertyConfigs.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/helpers/DateHelper.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/base/AppiumDriverSetup.java
+/Users/mokapos/Documents/Appium/mobile-test-v2/src/main/java/elements/base/BaseField.java

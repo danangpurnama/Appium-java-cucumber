@@ -1,0 +1,6 @@
+pages/CalcPage.class
+hooks/AppiumHooks.class
+steps/CalcPageSteps.class
+pages/LoginPage.class
+steps/LoginPageSteps.class
+Runner/TestRunner.class
